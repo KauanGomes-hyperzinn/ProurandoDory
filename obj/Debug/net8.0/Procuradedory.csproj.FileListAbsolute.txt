@@ -1,0 +1,14 @@
+C:\Users\gacha\Documents\ProcuradeDory\bin\Debug\net8.0\Procuradedory.exe
+C:\Users\gacha\Documents\ProcuradeDory\bin\Debug\net8.0\Procuradedory.deps.json
+C:\Users\gacha\Documents\ProcuradeDory\bin\Debug\net8.0\Procuradedory.runtimeconfig.json
+C:\Users\gacha\Documents\ProcuradeDory\bin\Debug\net8.0\Procuradedory.dll
+C:\Users\gacha\Documents\ProcuradeDory\bin\Debug\net8.0\Procuradedory.pdb
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\Procuradedory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\Procuradedory.AssemblyInfoInputs.cache
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\Procuradedory.AssemblyInfo.cs
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\Procuradedory.csproj.CoreCompileInputs.cache
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\Procuradedory.dll
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\refint\Procuradedory.dll
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\Procuradedory.pdb
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\Procuradedory.genruntimeconfig.cache
+C:\Users\gacha\Documents\ProcuradeDory\obj\Debug\net8.0\ref\Procuradedory.dll
